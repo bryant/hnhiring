@@ -15,7 +15,8 @@ Amongst the features:
 
 * A year's worth of posts
 * Date-based ordering (focus on the newest jobs)
-* Instant filtering by regular expression (find jobs in New York|NYC)
+* Instant filtering and highlighting with regular expression (find jobs in
+  `New York|NYC`)
 * Ability to hide uninteresting posts
 * Helpful keyboard shortcuts (never touch the mouse)
 
